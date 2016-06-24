@@ -1,0 +1,10 @@
+insert into Client (id, nom, prenom) values (1, "Dupuis", "Paul");
+insert into Client (nom, prenom) values ("Dupont", "Pauline");
+insert into Client (nom, prenom) values ("Dupuis", "Pauline");
+insert into Client (nom, prenom) values ("Dupont", "Paul");
+insert into Client (nom, prenom) values ("Colada", "Pina");
+insert into Client (nom, prenom) values ("Moalescouilles", "David");
+insert into Client (nom, prenom) values ("Bonno", "Jean");
+insert into Client (nom, prenom) values ("Ohrhum", "Baba");
+insert into Client (nom, prenom) values ("Taaan", "Rosanne");
+insert into Client (nom, prenom) values ("Toun", "Rosane");
